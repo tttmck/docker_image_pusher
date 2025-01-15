@@ -1,2 +1,2 @@
 # arm64
-docker pull phusion/baseimage:bionic-1.0.0
+phusion/baseimage:bionic-1.0.0
