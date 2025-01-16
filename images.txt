@@ -1,1 +1,1 @@
-phusion/baseimage:jammy-1.0.4
+--platform=linux/arm64 phusion/baseimage:jammy-1.0.4
