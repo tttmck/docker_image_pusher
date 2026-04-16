@@ -1,4 +1,1 @@
-elasticsearch:8.19.8
-postgres:18.1-alpine
-redis:7.4
-casbin/casdoor-all-in-one:latest
+dockurr/windows:latest
